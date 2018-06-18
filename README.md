@@ -1,7 +1,7 @@
 # Labyrinth
 unexplained labyrinth of dungeons and dragons
 design based on tutorials Blender BGE (Blender Game Engine),
-UPBGE is used for this purpose as it is the best update of the game engin of blender
+UPBGE is used for this purpose as it is the best update of the game engine of blender
 Python scripts are used to enhance, modify, create logic brick improvements
 
 if you want to participate contact on email of project or contact a member directly in discord
