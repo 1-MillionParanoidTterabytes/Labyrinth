@@ -8,4 +8,4 @@ if you want to participate contact on email of project or contact a member direc
 
 email: 1millionparanoidtterabytes@gmail.com
 discordapp.com https://discordea.net/lack-of-love-tm/ # use the invitation to join and send a message with the following line
-@Lack Of Love # 7553 give me my roll
+@Discord#3626 give me my roll
